@@ -1,4 +1,4 @@
-# Problem statement 
+# Project Description
 
 ## Project Overview
 The goal of this project was to build an efficient Course Registration System for the Indian Institute of Technology Madras (IITM) using Object-Oriented Programming (OOP) principles. The system manages student enrollment in various courses, ensures course prerequisites and capacity constraints are respected, and handles potential scheduling conflicts.
